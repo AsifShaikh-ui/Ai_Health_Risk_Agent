@@ -130,7 +130,7 @@ This project implements a **hybrid AI architecture** that combines:
 ## Deployment
 The application is deployed using **Streamlit Cloud**.
 
-> App URL: *(Add your Streamlit link here)*
+> App URL: https://asifshaikh-ui-ai-health-risk-agent-appapp-ivigzh.streamlit.app/
 
 ---
 
